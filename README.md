@@ -110,7 +110,7 @@ Created by wuseman
 
 ## Contributing
 
-Contributions to SSHStorm are welcome! If you encounter any issues or have suggestions for improvements, please [open an issue](https://github.com/your-username/sshstorm/issues) or submit a pull request.
+Contributions to SSHStorm are welcome! If you encounter any issues or have suggestions for improvements, please [open an issue](https://github.com/wuseman/sshstorm/issues) or submit a pull request.
 
 ## Troubleshooting and FAQ
 
